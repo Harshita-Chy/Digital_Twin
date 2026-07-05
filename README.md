@@ -1,10 +1,5 @@
 # 💧 AI-Based Digital Twin for Smart Water Distribution
 
-**Role:** ANN Prediction Engineer (Role 2)  
-**Core Objective:** High-fidelity water demand forecasting and real-time leak detection using Hybrid Soft Computing.
-
----
-
 ## 🧠 Project Overview & Architecture
 
 A Digital Twin is a virtual replica of a physical water network. This module acts as the "Brain" of the twin. It uses historical data to predict future water consumption and identifies anomalies (leaks) by comparing live sensor data against AI expectations.
